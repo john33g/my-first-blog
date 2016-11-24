@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'django-girls-john33g.c9users.io',
+    '127.0.0.1',
+    'john33g.pythonanywhere.com',	
     ]
 
 
